@@ -53,7 +53,7 @@ module.exports = {
 	},
 	husky: ['@commitlint/config-conventional@9', '@commitlint/cli@9', 'husky@4', 'lint-staged'],
 	prettier: {
-		vue: ['prettier@2.2.1', '@prettier/plugin-pug'],
+		vue: ['prettier@2.2.1'],
 		node: ['prettier@2.2.1']
 	}
 }
